@@ -1,7 +1,8 @@
 {
-    "name": "portfolio",
-    "compatibility_date": "2025-05-18",
-    "assets": {
-        "directory": "./dist"
-    }
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "portfolio",
+  "compatibility_date": "2025-05-18",
+  "assets": {
+    "directory": "./dist"
+  }
 }
